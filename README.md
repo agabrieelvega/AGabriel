@@ -1,5 +1,5 @@
 # ✨ AGabriel - About Me
-
+I'm from Argentina, my English is not too good <br>
 I usually use `Visual Code Editor` and `Notepad++`
 
 ## ☕ Hobbies 
