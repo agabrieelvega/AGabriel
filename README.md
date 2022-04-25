@@ -2,13 +2,9 @@
 I'm from Argentina, my English is not too good <br>
 I usually use `Visual Code Editor` and `Notepad++`
 
-## ☕ Hobbies 
-- Level Design
-- Graphic design
-- Games
-
 ## ⭐ Skills
 - SourcePawn
+- Hammer Editor
 - HTML
 - CSS
 
